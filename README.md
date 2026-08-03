@@ -1,4 +1,4 @@
-# Privacy Policy for NetCafé Pro Extension
+# Privacy Policy for hamyar_cafenet Extension
 
 **Last Updated:** August 3, 2026
 
@@ -40,4 +40,4 @@ The primary purpose of **NetCafé Pro** is to provide Internet Cafe managers and
 ## 5. Contact Us
 If you have any questions regarding this Privacy Policy or NetCafé Pro, please contact us:
 * **Email:** kosarprintnet@gmail.com
-* **GitHub Repository:** https://github.com/KosarDezGraphic/netcafe-pro
+* **GitHub Repository:** https://github.com/KosarDezGraphic/hamyar_cafenet
